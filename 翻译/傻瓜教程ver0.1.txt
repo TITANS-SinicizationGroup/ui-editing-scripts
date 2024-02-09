@@ -1,0 +1,10 @@
+这个文件夹已经放了礼篇文件
+嗯，先安装里面的python与git
+python安装设置记得加入PATH，git就手动加PATH吧（复制git的安装目录，然后在系统高级设置环境变量PATH那里新建然后复制粘贴）
+要翻译什么在changes.json里面改，changes.json里面提供了怎么改的例子，你把那个例子改成你想要翻译的就行了，照着那个例子的格式自己琢磨着改
+弄完后右键左下角win标志，打开WINDOUWS POWERSHELL(管理员)输入以下指令
+cd (这个说明所在的文件夹安装目录)
+然后ctrl+v键入
+python UnityTextModifier.py sharedassets0.assets changes.json outputFolder
+就会在outputFolder输出dat文件
+dat文件你暂时不要问
