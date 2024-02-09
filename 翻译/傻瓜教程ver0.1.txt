@@ -8,3 +8,5 @@ cd (这个说明所在的文件夹安装目录)
 python UnityTextModifier.py sharedassets0.assets changes.json outputFolder
 就会在outputFolder输出dat文件
 dat文件你暂时不要问
+https://www.bilibili.com/video/BV1bd4y1J7Vt/?spm_id_from=333.337.search-card.all.click&vd_source=6dedad07276ae8def97149f7ac84efbb
+修改后提交到仓库看这个，再设置一下你的账户
